@@ -2,6 +2,8 @@
 
 Welcome to my github. Here you'll find projects I have/am working on, as well as various repos I've used. I recently ported several repos from my other github account, so feel free to take a look. I've pinned some repos that are listed on my resumes as well as a few others I'm happy with.
 
+I currently have 20 repositories and counting, many of which are privated due to copyright or school restrictions. To request access to these, please contact via linkedIn or the email on my resume.
+
 See some basic information about me below!
 
 - 🔭 I’m currently working on finishing my computer science degree at NCSU! I'm also doing some projects in computer graphics and AI.
