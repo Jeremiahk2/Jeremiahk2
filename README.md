@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiahk2&show_icons=true&locale=en&layout=compact" alt="jeremiahk2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeremiahk2&show_icons=true&locale=en" alt="kapil987" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiahk2&" alt="jeremiahk2" /></p>
